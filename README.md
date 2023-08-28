@@ -20,4 +20,4 @@ An abuseipdb API key must be stored in env var 'ABUSE_IP_DB_API_KEY.'
 # Read Also
 This script is NOT endorsed, sponsored by, or in any way affiliated with abuseipdb.com or any of its owners.
 
-Read the Terms of Service in the script before using or distributing.
+Read the Terms of Use in the script before using or distributing.
