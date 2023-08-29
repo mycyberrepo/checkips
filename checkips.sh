@@ -1,47 +1,6 @@
 #!/bin/bash
 
-# TERMS OF USE
-# In these terms, "author" shall be taken to mean the person or legal entity
-# that created this work.
-# This script is provided as-is with no warranty of any kind. 
-# Use at your own risk.
-# The author assumes no liability for any damages caused by this script.
-# By using or distributing this script, you agree not to hold the author 
-# liable for any damages, legal claims, or legal actions arising from 
-# its use or distribution. If you use or distribute this script in any
-# way, you agree to assume all legal liabilities arising from that use
-# and/or distribution and defend and indemnify the author against any
-# damages or costs arising from claims or legal actions related to the
-# use and/or distribution of this script.
-# By using this script, you also agree to abide by the abuseipdb.com
-# terms of service. At time of writing, those terms are located at
-# https://www.abuseipdb.com/legal. This URL is provided as a convince.
-# If the URL of the terms of service applicable to abuseipdb.com changes
-# or if any terms of the site change, it is up the user (or distributor)
-# and not the author to find the new terms and ensure compliance with 
-# the terms.
-# The author retains the right to change the terms of service for this script
-# without notice.
-# You agree any disputes arising from this agreement will be governed
-# by the laws of the Commonwealth of Virginia in the United States without
-# regard to conflict of law.
-# You further agree not to use this script to commit acts that are unlawful,
-# violate abusedbip.com's terms of service, or may result in someone wanting
-# to sue the author.
-# If you cannot legally agree to these terms in full for any reason, such
-# as, but not limited to, being below the age of 18, you are not permitted 
-# to use or distribute this script.
-# If any clauses in the abuseipdb.com's terms of service conflict with
-# the terms of use of this script such that that conflict would
-# open the author of this script to liability of any kind, then this agreement
-# supersedes those clauses of abuseipdb's terms of service that create such
-# conflict.
-# If any law of the United States would prohibit providing you this script,
-# you are not permitted to use this script.
-# Both commercial and non-commercial use of this script in compliance with these 
-# terms is authorized without a license fee.
-# This file constitutes the entire agreement.
-
+# Read the LICENSE file before use.
 # This script is NOT endorsed, sponsored by, or in any way affiliated
 # with abuseipdb.com or any of its owners.
 
