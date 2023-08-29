@@ -36,10 +36,10 @@
 # open the author of this script to liability of any kind, then this agreement
 # supersedes those clauses of abuseipdb's terms of service that create such
 # conflict.
-# If you are prohibited from being provided this script by any law of the
-# United States, you are not permitted to use this script.
+# If any law of the United States would prohibit providing you this script,
+# you are not permitted to use this script.
 # Both commercial and non-commercial use of this script in compliance with these 
-# terms is authorized with a license fee.
+# terms is authorized without a license fee.
 # This file constitutes the entire agreement.
 
 # This script is NOT endorsed, sponsored by, or in any way affiliated
